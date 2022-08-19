@@ -146,6 +146,14 @@ article div{
     text-align: center;
 }
 
+.formulario{
+    display:block;
+    margin-top: 50px;
+    width: 128%;
+    
+}
+
+
 footer{
     background-color: #083e6d;
     
